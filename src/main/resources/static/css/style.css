@@ -47,3 +47,11 @@ body{
 	background: #e2e2e2;
 	margin-top:10px;
 }
+
+.siderbar .crossBtn{
+	position: absolute;
+	top:0;
+	right: 35px;
+	font-size:36px;
+	cursor:pointer;
+}
